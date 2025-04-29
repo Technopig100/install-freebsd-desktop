@@ -3,7 +3,7 @@ Strongly inspired by https://github.com/broozar/installDesktopFreeBSD
 Run the script as the root use as follows you can use: 
 
 ```sh
-git clone https://github.com/Technopig100/install-freebsd-desktop.git -o installx.sh
+git clone https://github.com/Technopig100/install-freebsd-desktop.git
 sh installx.sh
 ```
 
